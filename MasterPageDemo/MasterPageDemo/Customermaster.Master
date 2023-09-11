@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Customermaster.master.cs" Inherits="MasterPageDemo.Customermaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 225px;
+        }
+        .auto-style3 {
+            height: 346px;
+        }
+        .auto-style4 {
+            width: 1913px;
+            height: 219px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2">
+                    <img alt="" class="auto-style4" src="Content/images.jpeg" /></td>
+            </tr>
+            <tr>
+                <td class="auto-style3">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    <br />
+                </p>
+                <p>
+                </p>
+                <p>
+                </p>
+                <p>
+                </p>
+            </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <br />
+                    Rahitech IT Solution<br />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

@@ -1,0 +1,67 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="MasterPageDemo.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 566px;
+        }
+        .auto-style2 {
+            height: 62px;
+        }
+        .auto-style3 {
+            width: 1777px;
+            height: 503px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <img alt="" class="auto-style3" src="Content/image/images.jpeg" /></div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/HomePage.aspx" Text="Home" Value="Home"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About" Value="About"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Contact.aspx" Text  ="Contact" Value="Contact"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Login.aspx" Text="Login" Value="Login"></asp:MenuItem>
+                    </Items>
+                    <StaticMenuItemStyle HorizontalPadding="50px" />
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    &nbsp;</p>
+                <p>
+                    The task of the software devlopment team is to engineer the illusion of simlicity.</p>
+                <p>
+                    The aspects of good software is to make complex appear to be simple.</p>
+                <p>
+                </p>
+                <p>
+                </p>
+                <p>
+                </p>
+            </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>&nbsp;</td>
+                <td>Rahitech IT Solution</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

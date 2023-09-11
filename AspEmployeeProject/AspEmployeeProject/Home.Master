@@ -1,0 +1,110 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="AspEmployeeProject.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style3 {
+            height: 38px;
+        }
+        .auto-style4 {
+            height: 217px;
+        }
+        .auto-style5 {
+            height: 259px;
+        }
+        .auto-style6 {
+            height: 57px;
+        }
+        .auto-style7 {
+            height: 38px;
+            width: 895px;
+        }
+        .auto-style9 {
+            width: 895px;
+        }
+        .auto-style10 {
+            height: 259px;
+            width: 895px;
+        }
+        .auto-style11 {
+            height: 57px;
+            width: 895px;
+        }
+        .auto-style12 {
+            width: 1769px;
+            height: 401px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+        </div>
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style7"></td>
+                <td class="auto-style3"></td>
+            </tr>
+            <tr>
+                <td class="auto-style4" colspan="2">
+                    <br />
+                    <br />
+                    <img alt="" class="auto-style12" src="Content/desktop-wallpaper-contact-contact-us.jpg" /><br />
+                    <br />
+                    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/HomePage.aspx"  Text="Home" Value="Home"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/About Us.aspx" Text="About" Value="About"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Register.aspx" Text="Register" Value="Register">
+                                <asp:MenuItem NavigateUrl="~/Employee.aspx" Text="Employee" Value="Employee" >
+                                    <asp:MenuItem NavigateUrl="~/Project.aspx" Text="Project" Value="Project"></asp:MenuItem>
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/Login.aspx" Text ="Login" Value="Login"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/ViewEmployeeData.aspx" Text="ViewEmployeeData" Value="ViewEmployeeData"></asp:MenuItem>
+                        </Items>
+                        <StaticMenuItemStyle HorizontalPadding="60px"  />
+                        <StaticMenuStyle HorizontalPadding="60px" />
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style9">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style10">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                <p>
+                    <br />
+                &nbsp;&nbsp;&nbsp;
+                </p>
+                <p>
+                </p>
+                <p>
+                </p>
+                <p>
+                </p>
+                <p>
+                </p>
+            </asp:ContentPlaceHolder>
+                </td>
+                <td class="auto-style5">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style11">Rahitech IT Solution</td>
+                <td class="auto-style6"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

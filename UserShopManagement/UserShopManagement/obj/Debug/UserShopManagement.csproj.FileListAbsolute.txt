@@ -1,0 +1,16 @@
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\bin\Debug\UserShopManagement.exe.config
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\bin\Debug\UserShopManagement.exe
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\bin\Debug\UserShopManagement.pdb
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.csproj.AssemblyReference.cache
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.Form1.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.FrmProduct.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.FrmSize.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.Properties.Resources.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.RUser.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.csproj.GenerateResource.cache
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.exe
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.pdb
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.FrmType.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.Order.resources
+C:\Users\DELL-5480\source\repos\UserShopManagement\UserShopManagement\obj\Debug\UserShopManagement.Login.resources

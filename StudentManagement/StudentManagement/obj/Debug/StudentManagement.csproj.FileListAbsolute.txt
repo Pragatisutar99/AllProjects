@@ -1,0 +1,16 @@
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.FrmDepartment.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.FrmMarks.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.FrmStudent.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.frmTeacher.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Student.resources
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\DELL-5480\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.FrmUpdateTeacher.resources

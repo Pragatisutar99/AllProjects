@@ -1,0 +1,12 @@
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe.config
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\bin\Debug\ShopManagement.exe
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\bin\Debug\ShopManagement.pdb
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.AssemblyReference.cache
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Product.resources
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.RUser.resources
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.FrmSize.resources
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.Type.resources
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.GenerateResource.cache
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.exe
+C:\Users\DELL-5480\source\repos\ShopManagement\ShopManagement\obj\Debug\ShopManagement.pdb
